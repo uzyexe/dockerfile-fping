@@ -1,4 +1,4 @@
-# uzyexe/fping [![Circle CI](https://circleci.com/gh/uzyexe/dockerfile-fping.svg?style=svg)](https://circleci.com/gh/uzyexe/dockerfile-fping)
+# uzyexe/fping
 
 ## What is fping
 
